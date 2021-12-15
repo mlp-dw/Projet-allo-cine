@@ -1,0 +1,51 @@
+#allo {
+  /* display: flex;
+  flex-direction: column; */
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* .Films-title {
+  padding: 1em 6em 1em 6em;
+  color: white;
+  background-color: black;
+  text-align: center;
+  margin-top: 0;
+} */
+/* .touslesfilms {
+  margin-left: 3em;
+  margin-right: 3em;
+} */
+/* .block-film {
+  margin: 1em 3em 1em 3em;
+  padding: 1em 2em 1em 2em;
+  display: flex;
+  flex-direction: row;
+} */
+/* .photo {
+  width: 25%;
+} */
+/* .text {
+  width: 75%;
+  padding-left: 1em;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+} */
+/* .touslesfilms .block-film .titrefilm {
+  text-transform: uppercase;
+} */
+/* .note-images {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+} */
+/* .note {
+  width: 20%;
+} */
+/* .images {
+  width: 80%;
+} */
+.film-images {
+  padding: 0.3em;
+  width: 7em;
+}

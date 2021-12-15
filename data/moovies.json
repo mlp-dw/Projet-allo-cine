@@ -52,6 +52,7 @@
   {
     "Title": "300",
     "Year": "2006",
+    "Runtime": "115 min",
     "Genre": "Action, Drama, Fantasy",
     "Director": "Zack Snyder",
     "Writer": "Zack Snyder (screenplay), Kurt Johnstad (screenplay), Michael Gordon (screenplay), Frank Miller (graphic novel), Lynn Varley (graphic novel)",
@@ -99,6 +100,7 @@
     "Title": "The Wolf of Wall Street",
     "Year": "2013",
     "Genre": "Biography, Comedy, Crime",
+    "Runtime": "179 min",
     "Director": "Martin Scorsese",
     "Writer": "Terence Winter (screenplay), Jordan Belfort (book)",
     "Actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey",
@@ -365,3 +367,6 @@
     ]
   }
 ]
+
+
+
